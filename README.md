@@ -1,2 +1,2 @@
 # rekdoll.github.com
-iOS
+Webpage of Rekdoll
